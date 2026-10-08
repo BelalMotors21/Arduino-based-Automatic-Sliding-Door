@@ -97,12 +97,6 @@ The door operates automatically upon detecting a human presence via a PIR sensor
 
 ---
 
-## 📸 Demo & Media
-
-> _Add photos of the prototype, a short demo video, and screenshots of the Bluetooth terminal output here._
-
----
-
 ## 🔮 Future Improvements
 
 - Add ultrasonic sensor for redundancy in human detection
