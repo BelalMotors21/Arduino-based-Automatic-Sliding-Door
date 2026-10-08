@@ -1,8 +1,3 @@
-# 🚪 Automatic Sliding Door System
-
-> An automated sliding door system inspired by commercial mall entrances — built as a Mechatronics course project.
-
----
 
 ## 📖 Overview
 
@@ -98,38 +93,6 @@ The door operates automatically upon detecting a human presence via a PIR sensor
 
 ---
 
-## 📁 Project Structure
-
-```
-automatic-sliding-door/
-│
-├── Arduino_Code/
-│   └── sliding_door.ino
-├── CAD/
-│   └── door_assembly.SLDPRT
-├── Simulation/
-│   └── tinkercad_link.txt
-├── Docs/
-│   ├── circuit_diagram.png
-│   ├── block_diagram.png
-│   └── project_report.pdf
-├── Images/
-│   └── prototype_photos/
-└── README.md
-```
-
----
-
-## 🚀 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/automatic-sliding-door.git
-   ```
-2. **Open the Arduino sketch** in Arduino IDE (`Arduino_Code/sliding_door.ino`)
-3. **Wire the components** as per the circuit diagram in `Docs/`
-4. **Upload the code** to your Arduino board
-5. **Pair your phone** with the HC-05 module (default password: `1234` or `0000`)
 6. **Power up** and test detection, RFID override, and Bluetooth alerts
 
 ---
