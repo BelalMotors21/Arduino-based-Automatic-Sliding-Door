@@ -93,10 +93,6 @@ The door operates automatically upon detecting a human presence via a PIR sensor
 
 ---
 
-6. **Power up** and test detection, RFID override, and Bluetooth alerts
-
----
-
 ## 🔮 Future Improvements
 
 - Add ultrasonic sensor for redundancy in human detection
