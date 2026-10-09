@@ -110,5 +110,4 @@ This project was developed for academic purposes as part of a **Mechatronics cou
 
 ## 🙌 Acknowledgments
 
-- Course instructors and lab staff for guidance and resources
-- Open-source Arduino community for libraries and reference designs
+Special thanks to Dr. El-Araby Morsi and Dr. Ahmed Saleh and the faculty of the Introduction to Mechatronics course for their guidance and support.
